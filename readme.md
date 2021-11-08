@@ -2,7 +2,7 @@
 
 ## icons
 
-[http://icomoon.io](icomoon.io)
+[icomoon.io](http://icomoon.io)
 
 icons svg upload
 generate svg
@@ -12,7 +12,9 @@ style.css en font map kopieren naar root/css map
 
 ## reset
 
-Eric meyer [https://meyerweb.com/eric/tools/css/reset/](reset.css)
+Eric meyer
+[reset.css](https://meyerweb.com/eric/tools/css/reset/)
+
 Altijd eerst reset.css !!!!
 
 -Altijd eerst reset.css !!!!
