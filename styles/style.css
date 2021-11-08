@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  /* padding en margin binnen width */
+}
+
+body {
+  background-color: red;
+}
+h1 {
+  color: white;
+  background-color: purple;
+  padding: 7px;
+  font-size: 25px;
+  font-family: arial;
+}
+
+h1:before {
+  content: "\e902";
+  font-family: icons;
+  color: yellow;
+  font-size: 33px;
+}
