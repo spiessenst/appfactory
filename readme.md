@@ -2,7 +2,7 @@
 
 ## icons
 
-[icomoon.io](http://icomoon.io)
+[icomoon.io](https://icomoon.io)
 
 icons svg upload
 generate svg
