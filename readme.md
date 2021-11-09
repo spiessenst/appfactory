@@ -20,3 +20,10 @@ Altijd eerst reset.css !!!!
 -Altijd eerst reset.css !!!!
 -boxsizing niet vergeten !!!
 -iccons testen
+
+## fonts
+
+https://fonts.google.com/specimen/Lato?query=lato
+
+F1 wrap emmet
+nav>ul>li\*>a[href=#]
